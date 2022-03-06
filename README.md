@@ -27,8 +27,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src="https://imgur.com/a/lcojnvv" width=250><br>
+![alt-text](https://github.com/sandy-marrero/parcergram-codepath/blob/main/codepathdemo5.gif)
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
