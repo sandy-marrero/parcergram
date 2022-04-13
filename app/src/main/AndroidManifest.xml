@@ -19,11 +19,12 @@
         android:icon="@mipmap/ic_insta"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_insta_round"
+        android:usesCleartextTraffic="true"
         android:supportsRtl="true"
         android:theme="@style/Theme.Parcergram">
 
         <provider
-            android:name="android.support.v4.content.FileProvider"
+            android:name="androidx.core.content.FileProvider"
             android:authorities="com.codepath.fileprovider"
             android:exported="false"
             android:grantUriPermissions="true">
