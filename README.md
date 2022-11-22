@@ -1,4 +1,4 @@
-# Project 3 - Parcergram Unit Six
+# Project 3 - Instagram Clone (Codepath Android University)
 
 Parcergram is a photo sharing app similar to Instagram but using Parse as its backend.
 
